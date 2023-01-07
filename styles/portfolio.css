@@ -14,6 +14,17 @@
     border-radius: 5px;
     background: #FD6E0A;
     padding: 18px 35px;
+    margin-right: 10px;
+}
+.btn-secondary {
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 2px solid #FD6E0A;
+    height: 64px;
+    border-radius: 5px;
+    background: transparent;
+    padding: 18px 35px;
 }
 section {
     margin-top: 130px;
